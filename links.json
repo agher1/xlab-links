@@ -19,6 +19,10 @@
         {
             "label": "Last but not least link",
             "href": "https://developer.mozilla.org/"
+        },
+        {
+            "label": "Fifth element",
+            "href": "https://developer.mozilla.org/"
         }
     ]
 }
