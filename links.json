@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "label": "First link",
+            "href": "https://github.com/"
+        },
+        {
+            "label": "Second link",
+            "href": "https://as.com/"
+        },
+        {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/"
+        },
+        {
+            "label": "Fourth link",
+            "href": "https://www.ikea.com/"
+        },
+        {
+            "label": "Last but not least link",
+            "href": "https://developer.mozilla.org/"
+        }
+    ]
+}
