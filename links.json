@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "label": "GitHub",
-            "href": "https://github.com/"
+            "label": "Google",
+            "href": "https://www.google.com/"
         },
         {
             "label": "React",
@@ -17,12 +17,12 @@
             "href": "https://www.ikea.com/"
         },
         {
-            "label": "Excalidraw",
-            "href": "htt/?123- ps://excalidraw.com/"
+            "label": "Wrong URL example",
+            "href": "https:://www.google.com/"
         },
         {
-            "label": "Mozilla Developer docs",
-            "href": "https://developer.mozilla.org/"
+            "label": "Excalidraw",
+            "href": "https://excalidraw.com/"
         }
     ]
 }
