@@ -1,18 +1,18 @@
 Hej! 👋 This repository holds the data source for the Global **eXperience** Lab's kiosks index application. Any collaborator can add, remove or change the URLs by editing the file `links.json`. If you are not familiar with JSON formatted files, please keep reading.
 
 ## 1. What is JSON?
-JSON stands for JavaScript Object Notation and consists on a text-based data formar in which we find properties with values. In our case, properties and values are just strings, are encapsulated between curly braces and separeted by commas. You'll find more information [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON).
+JSON stands for JavaScript Object Notation and consists on a text-based data format in which we find properties paired with values. In our case, properties and values are just strings, are encapsulated between curly braces and separeted by commas. You'll find more information [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON).
 
 ## 2. Editing the links file
 As you will notice, the "main" property in the `links.json` is called **data**. That part must be unchanged, so the structure of the file always remains like this:
 ```javascript
 {
     "data": [
-        // Here is where each link details is stored
+        // Here is where each link is stored, hence what we will be editing
     ]
 }
 ```
-The brackets indicate that the objects contained in them are a collection, set or array of the same kind (links, in our case). Links are, as we said, encapsulated in what are called objects and each object is delimited by curly braces as follows:
+The brackets indicate that the objects contained inside them are a collection, set or array of the same kind (links, in our case). Links are, as we said, encapsulated in what are called objects and each object is delimited by curly braces as follows:
 ```javascript
 {
     "property1": "value1",
@@ -47,7 +47,7 @@ The following image shows how those previous object would be rendered in the web
 ![](example1.png)
 
 ## 4. Adding more links
-The initial version of the file would look like this:
+The initial version of the file would look like this.
 ```javascript
 {
     "data": [
@@ -71,7 +71,7 @@ The initial version of the file would look like this:
 }
 ```
 
-If we added two more links, the result would be like this:
+If we added two more links, the result would be:
 ```javascript
 {
     "data": [
