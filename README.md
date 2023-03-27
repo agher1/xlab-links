@@ -1,9 +1,9 @@
 Hej! 👋 This repository holds the data source for the Global **eXperience** Lab's kiosks index application. Any collaborator can add, remove or change the URLs by editing the file `links.json`. If you are not familiar with JSON formatted files, please keep reading.
 
-# 1. What is JSON?
+## 1. What is JSON?
 JSON stands for JavaScript Object Notation and consists on a text-based data formar in which we find properties with values. In our case, properties and values are just strings, are encapsulated between curly braces and separeted by commas. You'll find more information [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON).
 
-# 2. Editing the links file
+## 2. Editing the links file
 As you will notice, the "main" property in the `links.json` is called **data**. That part must be unchanged, so the structure of the file always remains like this:
 ```javascript
 {
@@ -41,12 +41,12 @@ If we have more than one object, we simply separate them by commas. The next exa
 ```
 ⚠️ **Important**: _note that both the href property lines and the last object aren't followed by a comma. That is because they are the last property and object, respectively._ 
 
-# 3. How this translates to the kiosk
+## 3. How this translates to the kiosk
 The following image shows how those previous object would be rendered in the web application. When the link URl is not valid, the button will appear as disabled (in this case, there wa's a typo in the protocol as well as an space in the middle of the link):
 
 ![](example1.png)
 
-# 4. Adding more links
+## 4. Adding more links
 The initial version of the file would look like this:
 ```javascript
 {
