@@ -1,23 +1,27 @@
 {
     "data": [
         {
-            "label": "First link",
+            "label": "GitHub",
             "href": "https://github.com/"
         },
         {
-            "label": "Second link",
-            "href": "https://as.com/"
+            "label": "React",
+            "href": "https://react.dev/"
         },
         {
             "label": "YouTube",
             "href": "https://www.youtube.com/"
         },
         {
-            "label": "Fourth link",
+            "label": "IKEA",
             "href": "https://www.ikea.com/"
         },
         {
-            "label": "Fifth element",
+            "label": "Excalidraw",
+            "href": "https://excalidraw.com/"
+        },
+        {
+            "label": "Mozilla Developer docs",
             "href": "https://developer.mozilla.org/"
         }
     ]
