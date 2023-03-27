@@ -103,7 +103,7 @@ If we added two more links, the result would be:
 }
 ```
 
-And if would be displayed as you can see here:
+And it would be displayed as you can see here:
 
 ![](example2.png)
 
