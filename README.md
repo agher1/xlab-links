@@ -47,7 +47,7 @@ The following image shows how those previous object would be rendered in the web
 ![](example1.png)
 
 ## 4. Adding more links
-The initial version of the file would look like this.
+Here we have the initial version of the file in this example.
 ```javascript
 {
     "data": [
@@ -71,40 +71,16 @@ The initial version of the file would look like this.
 }
 ```
 
-If we added two more links, the result would be:
-```javascript
-{
-    "data": [
-        {
-            "label": "First link",
-            "href": "https://github.com/agher1/xlab-links/blob/main/links.json"
-        },
-        {
-            "label": "Second Link",
-            "href": "https://github.com/agher1/xlab-links"
-        },
-        {
-            "label": "Wrong URL example",
-            "href": "httos:www.ikea .com/"
-        },
-        {
-            "label": "Fourth link",
-            "href": "https://www.ikea.com/"
-        },
-        {
-            "label": "Fifth link",
-            "href": "https://www.google.com/"
-        },
-        {
-            "label": "Sixth link",
-            "href": "https://www.canva.com/"
-        }
-    ]
-}
-```
+To edit the file directly from the browser, simply go to the [links.json](https://github.com/agher1/xlab-links/blob/main/links.json) file and then click the edit button to enable the text editor.
+![](edit.png)
+
+After adding two more links, the result would look like this:
+![](result.png)
+
+To save those changes, the final step would be to click the _Commint changes_ button, at the bottom of the page:
+![](save.png)
 
 And it would be displayed as you can see here:
-
 ![](example2.png)
 
 ## 5. Common mistakes
