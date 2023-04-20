@@ -1,18 +1,6 @@
 {
     "data": [
         {
-            "label": "Google",
-            "href": "https://www.google.com/"
-        },
-        {
-            "label": "React",
-            "href": "https://react.dev/"
-        },
-        {
-            "label": "YouTube",
-            "href": "https://www.youtube.com/"
-        },
-        {
             "label": "IKEA",
             "href": "https://www.ikea.com/"
         },
@@ -21,12 +9,8 @@
             "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=2e0da813-0a46-466c-b2e6-1a77c4474452&kioskLabel=Livingroom&floorLabel=Level"
         },
         {
-            "label": "Excalidraw",
-            "href": "https://excalidraw.com/"
-        },
-        {
-            "label": "Wrong URL example",
-            "href": "https:://www.google.com/"
+            "label": "Phygital Corner",
+            "href": "https://rx-manager-tqwhkwbrxq-no.a.run.app/"
         }
     ]
 }
