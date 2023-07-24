@@ -9,8 +9,16 @@
             "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=UKID.DEV.ES.031.A0&kioskLabel=Livingroom&floorLabel=Level"
         },
         {
-            "label": "Phygital Corner",
-            "href": "https://rx-manager-tqwhkwbrxq-no.a.run.app/"
+            "label": "RESIDE Production (ES)",
+            "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/es"
+        },
+        {
+            "label": "RESIDE Stage (ES)",
+            "href": "https://pmp-rx-manager-tqwhkwbrxq-ew.a.run.app/es"
+        },
+        {
+            "label": "RESIDE Development (ES)",
+            "href": "https://pmp-rx-manager-6rkuoa4j7q-ew.a.run.app/es"
         },
         {
             "label": "Geomagical test",
