@@ -1,10 +1,6 @@
 {
     "data": [
         {
-            "label": "KOMPASS",
-            "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=UKID.DEV.ES.031.A0&kioskLabel=Livingroom&floorLabel=Level"
-        },
-        {
             "label": "ES - RESIDE Manager (Production)",
             "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/es"
         },
@@ -19,6 +15,10 @@
         {
             "label": "EN - RESIDE Player (Production)",
             "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/en"
+        },
+        {
+            "label": "KOMPASS",
+            "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=UKID.DEV.ES.031.A0&kioskLabel=Livingroom&floorLabel=Level"
         },
         {
             "label": "Geomagical test",
