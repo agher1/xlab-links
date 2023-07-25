@@ -1,24 +1,24 @@
 {
     "data": [
         {
-            "label": "IKEA",
-            "href": "https://www.ikea.com/"
-        },
-        {
             "label": "KOMPASS",
             "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=UKID.DEV.ES.031.A0&kioskLabel=Livingroom&floorLabel=Level"
         },
         {
-            "label": "RESIDE Production (ES)",
+            "label": "ES - RESIDE Manager (Production)",
             "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/es"
         },
         {
-            "label": "RESIDE Stage (ES)",
-            "href": "https://pmp-rx-manager-tqwhkwbrxq-ew.a.run.app/es"
+            "label": "EN - RESIDE Manager (Production)",
+            "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/en"
         },
         {
-            "label": "RESIDE Development (ES)",
-            "href": "https://pmp-rx-manager-6rkuoa4j7q-ew.a.run.app/es"
+            "label": "ES - RESIDE Player (Production)",
+            "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/es"
+        },
+        {
+            "label": "EN - RESIDE Player (Production)",
+            "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/en"
         },
         {
             "label": "Geomagical test",
