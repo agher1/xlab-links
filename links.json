@@ -17,6 +17,14 @@
             "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/en"
         },
         {
+            "label": "RESIDE Manager (DEV)",
+            "href": "http://34.117.9.250/manager?lng=es"
+        },
+        {
+            "label": "RESIDE Player (DEV)",
+            "href": "http://34.117.9.250/player?lng=es"
+        },
+        {
             "label": "KOMPASS",
             "href": "https://test-metro.ikeadt.net/upptacka/faq?storeNo=031&kioskId=UKID.DEV.ES.031.A0&kioskLabel=Livingroom&floorLabel=Level"
         },
