@@ -2,19 +2,19 @@
     "data": [
         {
             "label": "ES - RESIDE Manager (Production)",
-            "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/es"
+            "href": "http://34.95.97.125/manager?lng=es"
         },
         {
             "label": "EN - RESIDE Manager (Production)",
-            "href": "https://pmp-rx-manager-dwwoaqwucq-ew.a.run.app/en"
+            "href": "http://34.95.97.125/manager?lng=en"
         },
         {
             "label": "ES - RESIDE Player (Production)",
-            "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/es"
+            "href": "http://34.95.97.125/player?lng=es"
         },
         {
             "label": "EN - RESIDE Player (Production)",
-            "href": "https://pmp-rx-player-dwwoaqwucq-ew.a.run.app/en"
+            "href": "http://34.95.97.125/player?lng=en"
         },
         {
             "label": "RESIDE Manager (DEV)",
