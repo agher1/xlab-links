@@ -1,28 +1,12 @@
 {
     "data": [
         {
-            "label": "ES - RESIDE Manager (Production)",
-            "href": "http://34.95.97.125/manager?lng=es"
+            "label": "RESIDE Manager Cushions (DEV)",
+            "href": "https://dev-reside.ikeadt.net/manager?storeNo=031&lng=en#demo-rx-cushions-manager"
         },
         {
-            "label": "EN - RESIDE Manager (Production)",
-            "href": "http://34.95.97.125/manager?lng=en"
-        },
-        {
-            "label": "ES - RESIDE Player (Production)",
-            "href": "http://34.95.97.125/player?lng=es"
-        },
-        {
-            "label": "EN - RESIDE Player (Production)",
-            "href": "http://34.95.97.125/player?lng=en"
-        },
-        {
-            "label": "RESIDE Manager (DEV)",
-            "href": "http://34.117.9.250/manager?lng=es"
-        },
-        {
-            "label": "RESIDE Player (DEV)",
-            "href": "http://34.117.9.250/player?lng=es"
+            "label": "RESIDE Manager Rugs (DEV)",
+            "href": "https://dev-reside.ikeadt.net/manager?storeNo=031&lng=en#demo-rx-rugs-manager"
         },
         {
             "label": "KOMPASS",
